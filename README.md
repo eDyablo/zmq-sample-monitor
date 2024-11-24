@@ -1,6 +1,6 @@
-# Console
+# Monitor
 
-Sample python application using ZeroMQ.
+Sample Flask application using ZeroMQ.
 
 ## Links
 
