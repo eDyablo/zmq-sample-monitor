@@ -6,7 +6,7 @@ app = Flask(__name__)
 
 zmq_context = zmq.Context()
 
-messages =  []
+messages = []
 
 @app.route('/', methods=['GET'])
 def index():
